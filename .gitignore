@@ -30,6 +30,3 @@ bin/
 .DS_Store
 
 ##
-lib
-.idea
-jenkins-shared-library.iml
